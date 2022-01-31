@@ -25,7 +25,7 @@
 ## 😊 Profile Summary
 
  <div>
- <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitaayush&theme=monokai" alt="Ankitaayush" style="max-width: 100%" width="100%" /></p>
+ <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitaayush&theme=midnight-purple" alt="Ankitaayush" style="max-width: 100%" width="100%" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankitaayush&label=Profile%20views&color=3399ff&style=flat" alt="Ankitaayush" /> </p>
 
 </div>
