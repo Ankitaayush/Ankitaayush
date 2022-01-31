@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 <h1 align ="center">Hi I am Ankit Aayush<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
 ##  About Me
-<h3>Full stack web developer</h3>
+<h5>Full stack web developer</h5>
 <h5>Learning Dsa</h5>
 
 ##  Connect with Me
