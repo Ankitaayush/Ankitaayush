@@ -5,7 +5,7 @@
 
 ##  About Me
 <h3>Full stack web developer</h3>
-
+<h5>Learning Dsa</h5>
 
 ##  Connect with Me
 
@@ -18,12 +18,13 @@
 
 ## 📈 Stats
 <div>
-<p><img align="left" height="179" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitaayush&show_icons=true&locale=en&layout=compact&theme=radical" alt="uzibytes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankitaayush&show_icons=true&locale=en&theme=radical" alt="uzibytes" /></p>
-
+<p><img align="left" height="179" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitaayush&show_icons=true&locale=en&layout=compact&theme=radical" alt="Ankitaayush" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankitaayush&show_icons=true&locale=en&theme=radical" alt="Ankitaayush" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitaayush&theme=algolia" alt="Ankitaayush" /></p>
 ## 😊 Profile Summary
 
  <div>
- <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitaayush&theme=monokai" alt="uzibytes" style="max-width: 100%" width="100%" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankitaayush&label=Profile%20views&color=3399ff&style=flat" alt="uzibytes" /> </p>
+ <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitaayush&theme=monokai" alt="Ankitaayush" style="max-width: 100%" width="100%" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankitaayush&label=Profile%20views&color=3399ff&style=flat" alt="Ankitaayush" /> </p>
+
 </div>
