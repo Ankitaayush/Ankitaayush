@@ -19,7 +19,8 @@
 ## 📈 Stats
 <div>
 <p><img align="left" height="179" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitaayush&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Ankitaayush" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitaayush&langs_count=10&layout=compact&theme=midnight-purple" alt="Ankitaayush" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankitaayush&theme=algolia&count_private=true&show_icons=true" alt="Ankitaayush" /></p>
+
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitaayush&theme=midnight-purple" alt="Ankitaayush" /></p>
   
 ## 😊 Profile Summary
